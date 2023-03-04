@@ -25,7 +25,6 @@ p {
   font-weight: 900 !important;
 }
 
-
 .seciton-heading {
   font-size: 3rem;
   line-height: 1.5;
@@ -35,6 +34,16 @@ p {
 
 .container-fluid {
   padding: 7% 15% !important;
+}
+
+/* SECTIONS */
+.colored-section {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
 }
 
 /* Nav Bar */
@@ -58,7 +67,6 @@ p {
   font-size: 1.2rem;
 }
 
-
 /* DL Buttons */
 
 .download-button {
@@ -67,16 +75,11 @@ p {
 
 /* TITLE SECTION */
 
-#title {
-  background-color: #ff4c68;
-  color: #fff;
-  text-align: left;
-}
 
 #title .container-fluid {
   padding: 3% 15% 7% !important;
+  text-align: left;
 }
-
 
 /* TITLE IMG */
 
@@ -90,7 +93,6 @@ p {
 /* Features */
 
 #features {
-  background-color: #fff;
   position: relative;
 }
 
@@ -115,7 +117,6 @@ p {
 
 #testimonials {
   background-color: #ef8172;
-  color: white;
 }
 
 .testimonial-image {
@@ -156,11 +157,6 @@ p {
 }
 
 /* CTA  */
-
-#cta {
-  background-color: #ff4c68;
-  color: #fff;
-}
 
 /* FOOTER */
 
